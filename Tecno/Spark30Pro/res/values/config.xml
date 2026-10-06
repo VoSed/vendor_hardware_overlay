@@ -168,7 +168,11 @@
                 <item>mobile_bip,2002,0,3,60000,true</item>
                 <item>mobile_vsim,2003,0,-1,60000,true</item>
         </string-array>
-        <integer-array name="config_udfps_sensor_props" />
+        <integer-array name="config_udfps_sensor_props">
+                <item>540</item>
+                <item>2200</item>
+                <item>91</item>
+        </integer-array>
         <string-array name="config_udfps_enroll_stage_thresholds">
                 <item>0.25</item>
                 <item>0.5</item>
